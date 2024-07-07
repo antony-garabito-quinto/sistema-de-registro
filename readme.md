@@ -5,3 +5,4 @@
 para el sistema debees tener:
 
 ```npm install react```
+Sistema de Registro 2
